@@ -1,0 +1,15 @@
+# 100882058 - DevOps in the SDLC
+
+DevOps and DevOps and the Software Development Life Cycle (SDLC)
+
+SDLC + DevOps Mapping:
+- Plan → issue tracking
+- Build → automated builds
+- Test → CI tests
+- Release/Deploy → pipelines
+- Operate/Monitor → feedback loop
+
+CI/CD Benefits:
+- Faster feedback
+- Reduced integration risk
+- Consistent releases

@@ -1,0 +1,4 @@
+Information about the COMP 3104 DevOps course
+
+- Available to third year students
+- Contains weekly labs and quizzes

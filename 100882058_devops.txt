@@ -6,7 +6,9 @@ Key Topics:
 - CI/CD with GitHub Actions
 - Testing and pipelines
 
-Expected Outcomes:
-- Collaborate via branches/PRs
-- Configure CI workflows
-- Interpret pipeline results
+Key Learning Outcomes:
+1. Understand how version control supports collaboration.  
+2. Configure and maintain CI/CD pipelines using GitHub Actions.  
+3. Apply automation to streamline software delivery.  
+4. Demonstrate DevOps principles in group assignments and projects.
+

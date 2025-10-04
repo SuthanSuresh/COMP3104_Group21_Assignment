@@ -5,3 +5,8 @@ Key Topics:
 - Branching strategies
 - CI/CD with GitHub Actions
 - Testing and pipelines
+
+Expected Outcomes:
+- Collaborate via branches/PRs
+- Configure CI workflows
+- Interpret pipeline results

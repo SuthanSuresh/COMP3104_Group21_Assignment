@@ -1,0 +1,8 @@
+Why does DevOps matters?
+
+DevOps matters to a computer programmer because it connects people and processes across each stage of the software development cycle. 
+It includes the necessary steps: planning, coding, building, testing, releasing, deploying, operating, and monitoring.
+Learning DevOps teaches you to automate and standardize these stages. With continuous integration and continuous delivery (CI/CD), 
+every change is built and tested automatically, which catches issues early and makes releases smaller and safer.
+Additionally, DevOps incorporates cooperation and dependability into the cycle. In order for teams to react swiftly and continuously
+improve, practices like infrastructure as code.

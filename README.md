@@ -10,7 +10,8 @@
 
 - **Member 5:** Claire Lee (100882058) - [GitHub](https://github.com/jclairelee)
 
-<!-- - **Member 5:** John Smith (1027890) - [GitHub](https://github.com/johnsmith) -->
+- **Member 6:** Ayesha Akbar (100949840) - [GitHub](https://github.com/leafschick)
+
 
 ## Project Description
 

@@ -2,3 +2,4 @@ Importance of learning DevOps in the software development cycle
 
 - DevOps integrates development and operations to ensure system reliability
 - DevOps reduces deployment time
+- DevOps enables continuous integration and delivery

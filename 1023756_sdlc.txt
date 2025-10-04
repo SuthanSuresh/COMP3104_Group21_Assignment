@@ -1,0 +1,7 @@
+101490258 - Brian Pagsolingan
+Importance of DevOps
+
+DevOps teaches us how to autoamte tasks, deploy quickly, collaborate better, and find and fix bugs better. Witout DevOps, a developer writes code, 
+emails to the operations team, and waits a long time before it's deployed. This gap is problematic because if something breaks, blame is passed back 
+and forth. With DevOps, the dev pushes code to GitHub -> automated tests are run -> if all pass, the code is deployed to production in minutes instead
+of days. Both production teams and dev teams see the logs and can fix issues quickly

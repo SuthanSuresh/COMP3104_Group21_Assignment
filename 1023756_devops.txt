@@ -1,4 +1,5 @@
 101490258 - Brian Pagsolingan
+DevOps Course Information
 
 The COMP_3104 DevOps course provides the students the procedures protocols, and best practices that a DevOps engineer brings to a workplace environment 
 to increase efficiency and improve the overall workflow. In this course students will learn to analyze and evaluate various developer operation 

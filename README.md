@@ -1,6 +1,6 @@
 # COMP3104_Group21_Assignment
 ## Group Members
-<!-- - **Leader:** Pritesh Patel (1023756) - [GitHub](https://github.com/priteshpatel) -->
+- **Leader:** Suthan Sureshkumar (101511337) - [GitHub](https://github.com/SuthanSuresh)
 <!-- - **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe) -->
 - **Member 3:** Rohan Puri (101482475) - [GitHub](https://github.com/xpydr)
 - **Member 4:** Brian Pagsolingan (101490258) - [GitHub](https://github.com/brianpagsolingan)

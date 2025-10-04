@@ -3,7 +3,7 @@
 <!-- - **Leader:** Pritesh Patel (1023756) - [GitHub](https://github.com/priteshpatel) -->
 <!-- - **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe) -->
 - **Member 3:** Rohan Puri (101482475) - [GitHub](https://github.com/xpydr)
-<!-- - **Member 4:** John Smith (1027890) - [GitHub](https://github.com/johnsmith) -->
+- **Member 4:** Brian Pagsolingan (101490258) - [GitHub](https://github.com/brianpagsolingan)
 <!-- - **Member 5:** John Smith (1027890) - [GitHub](https://github.com/johnsmith) -->
 
 ## Project Description

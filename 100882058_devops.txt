@@ -1,2 +1,7 @@
 COMP 3104 — DevOps Course Overview
 
+Key Topics:
+- Git/GitHub
+- Branching strategies
+- CI/CD with GitHub Actions
+- Testing and pipelines

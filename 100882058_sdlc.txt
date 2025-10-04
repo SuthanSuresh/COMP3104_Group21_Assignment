@@ -6,3 +6,8 @@ SDLC + DevOps Mapping:
 - Test → CI tests
 - Release/Deploy → pipelines
 - Operate/Monitor → feedback loop
+
+CI/CD Benefits:
+- Faster feedback
+- Reduced integration risk
+- Consistent releases

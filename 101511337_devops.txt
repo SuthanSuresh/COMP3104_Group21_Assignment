@@ -1,3 +1,5 @@
 Devops
 
 COMP3104 
+
+DevOps is a software development methodology, cultural philosophy, and set of practices that integrates and automates processes between software development (Dev) and IT operations (Ops) teams, breaking down traditional silos

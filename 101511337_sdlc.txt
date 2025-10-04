@@ -1,3 +1,5 @@
 SDLC
 
 SDLC (Software Development Life Cycle) is a structured process that defines the phases involved in building, deploying, and maintaining high-quality software.
+
+It serves as a framework for planning, designing, developing, testing, and maintaining software to ensure that the final product meets user requirements, customer expectations, and organizational standards while minimizing risks and costs.  
